@@ -1,9 +1,9 @@
 # BurgerMaker
 Burger Maker ist eine VR-Kochsimulation, in welcher der Spieler Burger nach Bestellung zubereitet. Hierzu muss er Patties anbraten und weitere Zutaten aufeinanderstapeln
 
-![](BurgerMaker_01.png)
-![](BurgerMaker_02.png)
-![](BurgerMaker_03.png)
-![](BurgerMaker_04.png)
-![](BurgerMaker_05.png)
+![](./ShowcaseImages/BurgerMaker_01.png)
+![](./ShowcaseImages/BurgerMaker_02.png)
+![](./ShowcaseImages/BurgerMaker_03.png)
+![](./ShowcaseImages/BurgerMaker_04.png)
+![](./ShowcaseImages/BurgerMaker_05.png)
 
