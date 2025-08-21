@@ -1,0 +1,29 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Onion",
+            "Amount": 2
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Cheeseburger",
+    "BurgerPrice": 10.85,
+    "Taxes": 1.14,
+    "TotalPrice": 11.99
+}

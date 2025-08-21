@@ -1,0 +1,35 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 3
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Pollos Classic",
+    "BurgerPrice": 13.61,
+    "Taxes": 1.38,
+    "TotalPrice": 14.99
+}

@@ -1,0 +1,37 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 3
+        },
+        {
+            "Type": "Onion",
+            "Amount": 2
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 2
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "The Blue Sky Burger",
+    "BurgerPrice": 14.50,
+    "Taxes": 1.49,
+    "TotalPrice": 15.99
+}

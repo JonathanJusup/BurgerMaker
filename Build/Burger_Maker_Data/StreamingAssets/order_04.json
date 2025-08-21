@@ -1,0 +1,46 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 3
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 2
+        },
+        {
+            "Type": "Onion",
+            "Amount": 2
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "EinMalAllesBidde",
+    "BurgerPrice": 20.78,
+    "Taxes": 2.21,
+    "TotalPrice": 22.99
+}

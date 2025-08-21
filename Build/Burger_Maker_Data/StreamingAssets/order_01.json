@@ -1,0 +1,36 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 3
+        },
+        {
+            "Type": "Onion",
+            "Amount": 2
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Classic Burger",
+    "BurgerPrice": 9.45,
+    "Taxes": 0.54,
+    "TotalPrice": 9.99
+}

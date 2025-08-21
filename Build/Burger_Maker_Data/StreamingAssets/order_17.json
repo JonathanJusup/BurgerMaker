@@ -1,0 +1,41 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 4
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Colourful Ordeal",
+    "BurgerPrice": 9.00,
+    "Taxes": 1.49,
+    "TotalPrice": 10.49
+}
