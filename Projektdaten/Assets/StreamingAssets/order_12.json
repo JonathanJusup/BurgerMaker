@@ -1,0 +1,32 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 3
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "The Green Burger",
+    "BurgerPrice": 8.49,
+    "Taxes": 0.50,
+    "TotalPrice": 8.99
+}

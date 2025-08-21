@@ -1,0 +1,43 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Onion",
+            "Amount": 1
+        },
+        {
+            "Type": "Cheese"
+        },
+
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 1
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "One for All Special",
+    "BurgerPrice": 10.00,
+    "Taxes": 1.11,
+    "TotalPrice": 11.11
+}

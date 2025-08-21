@@ -1,0 +1,25 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Rudimentary",
+    "BurgerPrice": 7.15,
+    "Taxes": 0.84,
+    "TotalPrice": 7.99
+}

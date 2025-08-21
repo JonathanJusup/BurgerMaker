@@ -1,0 +1,44 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Onion",
+            "Amount": 3
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 4
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Mad Scientist Burger",
+    "BurgerPrice": 18.34,
+    "Taxes": 1.65,
+    "TotalPrice": 19.99
+}

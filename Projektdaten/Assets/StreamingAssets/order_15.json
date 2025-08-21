@@ -1,0 +1,42 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "Onion",
+            "Amount": 1
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Meaty McMeat Meat",
+    "BurgerPrice": 16.79,
+    "Taxes": 2.20,
+    "TotalPrice": 18.99
+}

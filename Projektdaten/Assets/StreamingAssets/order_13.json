@@ -1,0 +1,38 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceRed"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 1
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "The Saucey Burger",
+    "BurgerPrice": 11.89,
+    "Taxes": 1.10,
+    "TotalPrice": 12.99
+}

@@ -1,0 +1,36 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "Onion",
+            "Amount": 5
+        },
+        {
+            "Type": "Tomato",
+            "Amount": 2
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "SauceYellow"
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "The Onion Overload",
+    "BurgerPrice": 10.29,
+    "Taxes": 1.20,
+    "TotalPrice": 11.49
+}

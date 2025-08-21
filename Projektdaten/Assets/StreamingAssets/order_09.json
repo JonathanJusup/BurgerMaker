@@ -1,0 +1,36 @@
+{
+    "OrderData": [
+        {
+            "Type": "TopBun"
+        },
+        {
+            "Type": "SauceWhite"
+        },
+        {
+            "Type": "Salad"
+        },
+        {
+            "Type": "Cheese"
+        },
+        {
+            "Type": "Pickle",
+            "Amount": 3
+        },
+        {
+            "Type": "Patty",
+            "CookingTimeStart": 4.0,
+            "CookingTimeEnd": 7.0
+        },
+        {
+            "Type": "Onion",
+            "Amount": 2
+        },
+        {
+            "Type": "BottomBun"
+        }
+    ],
+    "BurgerName": "Albuquerque Special",
+    "BurgerPrice": 13.00,
+    "Taxes": 1.99,
+    "TotalPrice": 14.99
+}
